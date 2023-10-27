@@ -20,6 +20,6 @@ I'm a sophomore at Sitare University, passionate about technology, programming a
 
 ## Let's Connect
 
-- 📫 You can reach me at: kumarsahil7753@gmail.com.
+- 📫 You can reach me at: kumarsahil7753@gmail.com
 - 💼 Connect with me on LinkedIn: www.linkedin.com/in/sahil-kumar-b332a6252
 - 🌐 Check out my personal blog: https://medium.com/@kumarsahil7753
