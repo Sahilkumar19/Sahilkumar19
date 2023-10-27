@@ -1,4 +1,4 @@
-### Hello, I'm Sahil Kumar 👋
+## Hello, I'm Sahil Kumar 👋
 
 I'm a sophomore at Sitare University, passionate about technology, programming and learning.
 
@@ -8,17 +8,18 @@ I'm a sophomore at Sitare University, passionate about technology, programming a
 - 🔬 My interest extend to **Data Structure and Algorithm**, which I believe are the fundamental to problem-solving in the real world of computer science.
 
 
-  ### Skills and Tools
+## Skills and Tools
 
-  - 🐍 **Python**
-  - ☕ **Java**
-  - 📊 **Data Structure and Algorithms**
-  - 🤖 **Artificial Intelligence**
-  - 🧠 **Machine learning**
-  - 🌐 **Web Developement**
- 
-    ### Let's Connect
+- 🐍 **Python**
+- ☕ **Java**
+- 📊 **Data Structure and Algorithms**
+- 🤖 **Artificial Intelligence**
+- 🧠 **Machine learning**
+- 🌐 **Web Developement**
 
-    - 📫 You can reach me at kumarsahil7753@gmail.com.
-    - 💼 Connect with me on LinkedIn www.linkedin.com/in/sahil-kumar-b332a6252
-    - 🌐 Check out my personal blog: https://medium.com/@kumarsahil7753
+
+## Let's Connect
+
+- 📫 You can reach me at: kumarsahil7753@gmail.com.
+- 💼 Connect with me on LinkedIn: www.linkedin.com/in/sahil-kumar-b332a6252
+- 🌐 Check out my personal blog: https://medium.com/@kumarsahil7753
