@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hello, I'm Sahil Kumar 👋
 
-<!--
-**Sahilkumar19/Sahilkumar19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a sophomore at Sitare University, passionate about technology, programming and learning.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Artificial Intelligence** and **Machine Learning**.
+- 💻 I'm proficient in **Python** and **Java**.
+- 🔬 My interest extend to **Data Structure and Algorithm**, which I believe are the fundamental to problem-solving in the real world of computer science.
+
+
+  ### Skills and Tools
+
+  - 🐍 **Python**
+  - ☕ **Java**
+  - 📊 **Data Structure and Algorithms**
+  - 🤖 **Artificial Intelligence**
+  - 🧠 **Machine learning**
+  - 🌐 **Web Developement**
+ 
+    ### Let's Connect
+
+    - 📫 You can reach me at kumarsahil7753@gmail.com.
+    - 💼 Connect with me on LinkedIn www.linkedin.com/in/sahil-kumar-b332a6252
+    - 🌐 Check out my personal blog: https://medium.com/@kumarsahil7753
