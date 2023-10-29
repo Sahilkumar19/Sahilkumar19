@@ -1,6 +1,6 @@
 ## Hello, I'm Sahil Kumar 👋
 
-I'm a sophomore at Sitare University, passionate about technology, programming and learning.
+I'm a sophomore at **Sitare University**, passionate about technology, programming and learning.
 
 
 - 🌱 I’m currently learning **Artificial Intelligence** and **Machine Learning**.
