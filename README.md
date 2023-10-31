@@ -20,8 +20,8 @@ I'm a sophomore at **Sitare University** pesuing B.Tech in CSE, passionate about
 
 ## My Contributions in different Repositories
 
-- https://github.com/HarryDulaney/intro-to-java-programming/pull/57#issue-1866878712
-- https://github.com/Codecademy/docs/pull/3568#issuecomment-1787038114
+- 🎉 https://github.com/HarryDulaney/intro-to-java-programming/pull/57#issue-1866878712
+- 🎉 https://github.com/Codecademy/docs/pull/3568#issuecomment-1787038114
   
 
 
