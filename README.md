@@ -29,4 +29,4 @@ I'm a sophomore at **Sitare University** pesuing B.Tech in CSE, passionate about
 
 - 📫 You can reach me at: kumarsahil7753@gmail.com
 - 💼 Connect with me on LinkedIn: www.linkedin.com/in/sahil-kumar-b332a6252
-- 🌐 Check out my personal blogs: https://medium.com/@kumarsahil7753
+- 🌐 Check out my personal blogs on Meadium: https://medium.com/@kumarsahil7753
