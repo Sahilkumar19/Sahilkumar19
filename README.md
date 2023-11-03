@@ -22,7 +22,7 @@ I'm a sophomore at **Sitare University** pesuing B.Tech in CSE, passionate about
 
 - 🎉 https://github.com/HarryDulaney/intro-to-java-programming/pull/57#issue-1866878712
 - 🎉 https://github.com/Codecademy/docs/pull/3568#issuecomment-1787038114
-  
+- 🎉 Link of website where I have contrbuted: https://www.codecademy.com/resources/docs/ai/search-algorithms/greedy-best-first-search
 
 
 ## Let's Connect
