@@ -1,6 +1,6 @@
 ## Hello, I'm Sahil Kumar 👋
 
-![Visitor](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSahilkumar19)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Sahilkumar19/Sahilkumar19/edit/main/README.md)
 
 
 I'm a sophomore at **Sitare University** pesuing B.Tech in CSE, passionate about technology, programming and learning.
