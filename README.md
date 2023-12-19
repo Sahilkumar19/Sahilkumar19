@@ -17,8 +17,8 @@ I'm a sophomore at **Sitare University** pesuing B.Tech in CSE, passionate about
 - ☕ **Java**
 - 📊 **Data Structure and Algorithms**
 - 🤖 **Artificial Intelligence**
-- 🧠 **Machine learning**
-- 🌐 **Web Developement**
+- 🧠 **Machine learning**[Learning]
+- 🌐 **Web Developement** [Learning]
 
 
 ## My Contributions (Merged Pull Requests)
