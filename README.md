@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Sahilkumar19/Sahilkumar19/edit/main/README.md)
 
 
-I'm a sophomore at **Sitare University** pesuing B.Tech in CSE, passionate about technology, programming and learning.
+I'm a sophomore at **Sitare University** with **(SRMU)** pesuing B.Tech in CSE, passionate about technology, programming and learning.
 
 
 - 🌱 I’m currently learning **Artificial Intelligence** and **Machine Learning**.
