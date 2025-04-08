@@ -1,6 +1,8 @@
 # 💫 Hi 👋, I'm Sahil Kumar
 **A passionate AI enthusiast from India**
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Sahilkumar19/Sahilkumar19/edit/main/README.md)
+
 - 🔭 I’m currently Building [Skill Quest](https://github.com/Sahilkumar19/Skill-Quest) and [LinkedIn-Scraper](https://github.com/Sahilkumar19/LinkedIn-Scraper)
 - 🌱 **I’m currently learning:** 
 - 💬 **Ask me about:** AI, Tech, Software Engineering
