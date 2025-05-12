@@ -3,7 +3,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Sahilkumar19/Sahilkumar19/edit/main/README.md)
 
-- 🔭 I’m currently working pn [Skill Quest](https://github.com/Sahilkumar19/Skill-Quest) and [LinkedIn-Scraper](https://github.com/Sahilkumar19/LinkedIn-Scraper)
+- 🔭 I’m currently working pn [Skill Quest](https://github.com/Sahilkumar19/Skill-Quest)
 - 💬 **Ask me about:** AI, Tech, Software Engineering
 - 📫 **How to reach me:** kumarsahil7753@gmail.com
 - 😄 **Pronouns:** he/him
