@@ -10,7 +10,7 @@
 - ⚡ **Fun fact:** I Google errors faster than I fix them.
 
 ## 🏆 Open Source Contributions
-- My first [link](https://github.com/Codecademy/docs/issues/3565)
+- My first issue [link](https://github.com/Codecademy/docs/issues/3565)
 - Merged PR of the first issue [link](https://github.com/Codecademy/docs/pull/3568)
 
 
