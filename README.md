@@ -11,10 +11,6 @@
 - 😄 **Pronouns:** he/him
 - ⚡ **Fun fact:** I Google errors faster than I fix them.
 
-## 🏆 Open Source Contributions
-- My first issue [link](https://github.com/Codecademy/docs/issues/3565)
-- Merged PR of the first issue [link](https://github.com/Codecademy/docs/pull/3568)
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-kumar-b332a6252/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]([https://x.com/ikyoutuber](https://x.com/sahil_mayyer?t=g9VItdHvCsyanSWJoq3IKw&s=09))
